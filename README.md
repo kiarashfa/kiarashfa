@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="left">Hi, I’m KiA 👋</h1>
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBjOTQwY2E3YmUxNjkwMmRmZjVkNmYwNjdhNjMzNDU4NzE1ZDNkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/HEPwfdu6T6svpPE1eN/giphy.gif" width="280">
 
-<!--
-**kiarashfa/kiarashfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I’m interested in Polymers!
+- 🎓 Master's degree in Polymer engineering
+- 🏛 Studing Ph.D. at Polymat in San Sebastián
+- 💻 Currently working on AI and Machine learning
 
-Here are some ideas to get you started:
+---
+<h3 align="center">Find me on</h3>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Github](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=Github&logoColor=white)](https://github.com/KiarashFa)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:KiarashFa@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/KiarashFa/)
+  [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile)
+  [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=Linkedin&logoColor=white)](https://orcid.org/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&labelColor=%23E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/KiarashFa/)
+  [![Telegram](https://img.shields.io/badge/-Telegram-0078D4?style=flat&logo=telegram&logoColor=white)](mailto:KiarashFa@hotmail.com)
+
+  <text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> — Dave Waters</text> 
+
+
+---
+    
+[![Profile last updated](https://img.shields.io/github/last-commit/kiarashfa/kiarashfa?label=Last%20updated&style=flat)](https://github.com/kiarashfa/kiarashfa/commits)
+<br>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kiarashfa)
+
+</div>
