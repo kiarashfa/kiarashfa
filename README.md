@@ -16,7 +16,7 @@
   [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile)
   [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=Linkedin&logoColor=white)](https://orcid.org/)
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&labelColor=%23E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/KiarashFa/)
-  [![Telegram](https://img.shields.io/badge/-Telegram-0078D4?style=flat&logo=telegram&logoColor=white)](mailto:KiarashFa@hotmail.com)
+  [![Telegram](https://img.shields.io/badge/-Telegram-0078D4?style=flat&logo=telegram&logoColor=white)](https://t.me/KiarashFa)
 
   <text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> — Dave Waters</text> 
 
