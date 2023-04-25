@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Polymers!
 - 🎓 Master's degree in Polymer engineering
-- 🏛 Studing Ph.D. at Polymat in San Sebastián
+- 🏛 Studying Ph.D. at Polymat in San Sebastián
 - 💻 Currently working on AI and Machine learning
 
 ---
