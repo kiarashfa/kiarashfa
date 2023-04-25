@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I’m KiA 👋</h1>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBjOTQwY2E3YmUxNjkwMmRmZjVkNmYwNjdhNjMzNDU4NzE1ZDNkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/HEPwfdu6T6svpPE1eN/giphy.gif" width="280">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBjOTQwY2E3YmUxNjkwMmRmZjVkNmYwNjdhNjMzNDU4NzE1ZDNkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/HEPwfdu6T6svpPE1eN/giphy.gif" width="250">
 
 - 👀 I’m interested in Polymers!
 - 🎓 Master's degree in Polymer engineering
