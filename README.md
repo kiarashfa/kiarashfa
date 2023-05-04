@@ -25,7 +25,7 @@
     
 [![Profile last updated](https://img.shields.io/github/last-commit/kiarashfa/kiarashfa?label=Last%20updated&style=flat)](https://github.com/kiarashfa/kiarashfa/commits)
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kiarashfa.kiarashfa)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kiarashfa.kiarashfa)
 
 </div>
 
