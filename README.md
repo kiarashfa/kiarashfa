@@ -14,8 +14,8 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:KiarashFa@gmail.com)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/KiarashFa/)
   [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Kiarash-Farajzadehahary)
+  [![Instagram](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=9D1FftIAAAAJ&hl=en)
   [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=Linkedin&logoColor=white)](https://orcid.org//0009-0006-6628-3009)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&labelColor=%23E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/KiarashFa/)
   [![Telegram](https://img.shields.io/badge/-Telegram-0078D4?style=flat&logo=telegram&logoColor=white)](https://t.me/KiarashFa)
 
   <text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> — Dave Waters</text> 
