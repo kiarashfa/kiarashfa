@@ -117,10 +117,9 @@ With a proven track record in collaborative research and high-impact publication
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I+know+a+lot+about+artificial+intelligence.+But+not+as+much+as+it+knows+about+me.&author=Dave+Waters" alt="Quote" width="520"/>
 
-<br/><br/>
+<br/>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/kiarashfa/kiarashfa?label=Last%20updated&style=flat)](https://github.com/kiarashfa/kiarashfa/commits)
-
 ![Visitors](https://komarev.com/ghpvc/?username=KiarashFa&color=6e7681&style=flat&label=Profile+visitors)
 
 </div>
