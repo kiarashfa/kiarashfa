@@ -21,13 +21,11 @@
 
 <!-- ABOUT ME -->
 
-<img align="right" src="https://raw.githubusercontent.com/kiarashfa/kiarashfa.github.io/main/assets/gallery/polymer-network.svg" width="280"/>
+<img align="right" src="https://raw.githubusercontent.com/kiarashfa/kiarashfa.github.io/main/assets/gallery/polymer-network.svg" width="300"/>
 
 ### 🧬 &nbsp;About Me
 
 I'm a **researcher** at the [University of the Basque Country](https://www.ehu.eus/en/en-home), working at the **[POLYMAT](https://www.polymat.eu/) Institute**, with a focus on **utilizing machine learning in emulsion polymerization** to bridge the gap between experimental chemistry and artificial intelligence.
-
-
 <br clear="right"/>
 
 ---
