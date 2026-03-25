@@ -8,8 +8,11 @@
 </div>
 
 <!-- TYPING ANIMATION -->
+
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Combining+experimental+%26+computational+expertise;Bringing+polymer+knowledge+to+ML;Deploying+ML+for+process+optimization+%26+control;Bridging+chemistry+and+artificial+intelligence)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Combining+experimental+%26+computational+expertise;Bringing+polymer+knowledge+to+ML;Deploying+ML+for+process+optimization+%26+control;Bridging+chemistry+and+artificial+intelligence)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
