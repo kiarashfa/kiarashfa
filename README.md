@@ -27,8 +27,6 @@
 
 I'm a **PhD candidate** at the [University of the Basque Country](https://www.ehu.eus/en/en-home), working as a researcher at the **[POLYMAT](https://www.polymat.eu/) Institute**. My research focuses on **utilizing machine learning in emulsion polymerization** — bridging the gap between experimental chemistry and artificial intelligence.
 
-With a proven track record in collaborative research and high-impact publications, I'm passionate about pushing the boundaries of what's possible when we combine **domain expertise** with **cutting-edge computational methods**.
-
 &nbsp;&nbsp;🎓 &nbsp;**M.Sc.** in Polymer Engineering  
 &nbsp;&nbsp;🏛️ &nbsp;**Ph.D. candidate** at POLYMAT, University of the Basque Country  
 &nbsp;&nbsp;🔬 &nbsp;Focus: **ML in Emulsion Polymerization**  
