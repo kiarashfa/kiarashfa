@@ -27,6 +27,7 @@
 
 I'm a **researcher** at the [University of the Basque Country](https://www.ehu.eus/en/en-home), working at the **[POLYMAT](https://www.polymat.eu/) Institute**, with a focus on **utilizing machine learning in emulsion polymerization** to bridge the gap between experimental chemistry and artificial intelligence. I'm passionate about pushing the boundaries of what's possible when we combine domain expertise with cutting-edge computational methods.
 
+
 ---
 <!-- GITHUB ACTIVITY -->
 ### 📈 &nbsp;GitHub Activity
