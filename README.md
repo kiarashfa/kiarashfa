@@ -25,14 +25,13 @@
 
 ### 🧬 &nbsp;About Me
 
-I'm a **researcher** at the [University of the Basque Country](https://www.ehu.eus/en/en-home), working at the **[POLYMAT](https://www.polymat.eu/) Institute**, with a focus on **utilizing machine learning in emulsion polymerization** to bridge the gap between experimental chemistry and artificial intelligence.
+I'm a **researcher** at the [University of the Basque Country](https://www.ehu.eus/en/en-home), working at the **[POLYMAT](https://www.polymat.eu/) Institute**, with a focus on **utilizing machine learning in emulsion polymerization** to bridge the gap between experimental chemistry and artificial intelligence. I'm passionate about pushing the boundaries of what's possible when we combine domain expertise with cutting-edge computational methods.
 
 ---
 <!-- GITHUB ACTIVITY -->
 ### 📈 &nbsp;GitHub Activity
 <div align="center">
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiarashFa&bg_color=00000000&color=8b949e&line=6e7681&point=e6edf3&area=true&area_color=6e768133&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
 <br/>
@@ -48,9 +47,7 @@ I'm a **researcher** at the [University of the Basque Country](https://www.ehu.e
 </div>
 
 ---
-
 <!-- CONNECT WITH ME -->
-
 ### 🤝 &nbsp;Connect With Me
 <div align="center">
 <br/>
