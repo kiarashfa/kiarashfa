@@ -29,7 +29,6 @@
 <div align="center">
 <br/>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=Github&logoColor=white)](https://github.com/KiarashFa)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:KiarashFa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/KiarashFa/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Kiarash-Farajzadehahary)
