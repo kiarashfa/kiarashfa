@@ -29,13 +29,9 @@ I'm a **researcher** at the [University of the Basque Country](https://www.ehu.e
 <br clear="right"/>
 
 ---
-
 <!-- GITHUB ACTIVITY -->
-
-<div align="center">
-
 ### 📈 &nbsp;GitHub Activity
-
+<div align="center">
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiarashFa&bg_color=00000000&color=8b949e&line=6e7681&point=e6edf3&area=true&area_color=6e768133&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
@@ -56,10 +52,8 @@ I'm a **researcher** at the [University of the Basque Country](https://www.ehu.e
 
 <!-- CONNECT WITH ME -->
 
-<div align="center">
-
 ### 🤝 &nbsp;Connect With Me
-
+<div align="center">
 <br/>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=Github&logoColor=white)](https://github.com/KiarashFa)
