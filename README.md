@@ -80,9 +80,9 @@ With a proven track record in collaborative research and high-impact publication
 
 <p>
   <a href="https://github.com/KiarashFa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiarashFa&theme=transparent&ring=6e7681&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&dates=6e7681&border=6e768155&stroke=6e768100" alt="Streak Stats" height="170"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KiarashFa&theme=transparent&ring=6e7681&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&sideNums=e6edf3&currStreakNum=e6edf3&dates=6e7681&border=6e768155&stroke=6e768100" alt="GitHub Streak" height="170"/>
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=KiarashFa&show_icons=true&theme=transparent&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&border_color=6e768155&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="170"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=KiarashFa&show_icons=true&theme=transparent&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&border_color=6e768155&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="170"/>
   </a>
 </p>
 
