@@ -16,7 +16,7 @@
 
 <!-- ABOUT ME -->
 
-<img align="right" src="https://raw.githubusercontent.com/kiarashfa/kiarashfa.github.io/main/assets/gallery/polymer-network.svg" width="280"/>
+<img align="right" src="https://raw.githubusercontent.com/kiarashfa/website/main/assets/imgs/polymer-network.svg" width="280"/>
 
 ### 🧬 I'm Kia...
 
