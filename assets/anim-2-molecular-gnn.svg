@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="A molecule as a graph neural network with messages passing along its bonds">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 100 400 185" width="400" height="185" role="img" aria-label="A molecule as a graph neural network with messages passing along its bonds">
   <defs>
     <filter id="c2-soft" x="-90%" y="-90%" width="280%" height="280%">
       <feGaussianBlur stdDeviation="3.4" result="b"/>
@@ -86,10 +86,4 @@
     <text x="200" y="108">O</text>
     <text x="292" y="258">N</text>
   </g>
-
-  <!-- label -->
-  <text x="200" y="352" text-anchor="middle" fill="#6e7681" font-family="ui-monospace, monospace" font-size="8" letter-spacing="2.5" opacity="0.45">
-    MESSAGE&#160;PASSING · MOLECULAR&#160;GRAPH
-    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="6s" repeatCount="indefinite"/>
-  </text>
 </svg>
