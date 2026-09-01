@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Three parallel polystyrene chains carrying signals">
+  <defs>
+    <filter id="c1-soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- one phenyl (Kekulé: alternating single/double bonds); attach point at (0,0) -->
+    <g id="c1-phenyl" fill="none" stroke="#848d97" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="0" y1="0" x2="0" y2="8"/>
+      <polygon points="0,8 14.72,16.5 14.72,33.5 0,42 -14.72,33.5 -14.72,16.5"/>
+      <!-- three inner lines = the double bonds -->
+      <line x1="1.05" y1="12.3" x2="10.47" y2="17.74"/>
+      <line x1="10.47" y1="32.26" x2="1.05" y2="37.7"/>
+      <line x1="-11.52" y1="30.44" x2="-11.52" y2="19.56"/>
+    </g>
+
+    <!-- one polystyrene chain, centered on the origin -->
+    <g id="c1-chain">
+      <polyline points="-152,13 -114,-13 -76,13 -38,-13 0,13 38,-13 76,13 114,-13 152,13"
+                fill="none" stroke="#848d97" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-152,13 q-8,-6 -14,0 q-6,6 -14,0" fill="none" stroke="#848d97" stroke-width="1.5"/>
+      <path d="M152,13 q8,6 14,0 q6,-6 14,0" fill="none" stroke="#848d97" stroke-width="1.5"/>
+      <use href="#c1-phenyl" transform="translate(-76,13)"/>
+      <use href="#c1-phenyl" transform="translate(0,13)"/>
+      <use href="#c1-phenyl" transform="translate(76,13)"/>
+      <g fill="#848d97">
+        <circle cx="-152" cy="13" r="2.5"/><circle cx="-114" cy="-13" r="2.5"/><circle cx="-76" cy="13" r="2.8"/>
+        <circle cx="-38" cy="-13" r="2.5"/><circle cx="0" cy="13" r="2.8"/><circle cx="38" cy="-13" r="2.5"/>
+        <circle cx="76" cy="13" r="2.8"/><circle cx="114" cy="-13" r="2.5"/><circle cx="152" cy="13" r="2.5"/>
+      </g>
+    </g>
+  </defs>
+
+  <!-- top chain (small, faint) -->
+  <use href="#c1-chain" transform="translate(200,80) scale(0.68)" opacity="0.26"/>
+  <!-- bottom chain (small, faint) -->
+  <use href="#c1-chain" transform="translate(200,300) scale(0.68)" opacity="0.26"/>
+  <!-- centre chain (prominent) -->
+  <use href="#c1-chain" transform="translate(200,190)" opacity="0.82"/>
+
+  <!-- repeat-unit brackets [ … ]n on the centre chain -->
+  <g transform="translate(200,190)" stroke="#848d97" stroke-width="1.6" fill="none" opacity="0.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-50,-30 L-57,-30 L-57,60 L-50,60"/>
+    <path d="M12,-30 L19,-30 L19,60 L12,60"/>
+  </g>
+  <text x="224" y="266" fill="#848d97" font-family="Georgia, serif" font-style="italic" font-size="16" opacity="0.62">n</text>
+
+  <!-- signals: one per chain, staggered → a downward propagation sweep -->
+  <g filter="url(#c1-soft)">
+    <!-- top -->
+    <circle r="2.2" fill="#79c0ff" opacity="0">
+      <animateMotion dur="3s" begin="0s" repeatCount="indefinite"
+        path="M96.64,88.84 L122.48,71.16 L148.32,88.84 L174.16,71.16 L200,88.84 L225.84,71.16 L251.68,88.84 L277.52,71.16 L303.36,88.84"/>
+      <animate attributeName="opacity" values="0;0.5;0.5;0" dur="3s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <!-- centre -->
+    <circle r="2.7" fill="#79c0ff" opacity="0">
+      <animateMotion dur="3s" begin="0.55s" repeatCount="indefinite"
+        path="M48,203 L86,177 L124,203 L162,177 L200,203 L238,177 L276,203 L314,177 L352,203"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" dur="3s" begin="0.55s" repeatCount="indefinite"/>
+    </circle>
+    <!-- bottom -->
+    <circle r="2.2" fill="#79c0ff" opacity="0">
+      <animateMotion dur="3s" begin="1.1s" repeatCount="indefinite"
+        path="M96.64,308.84 L122.48,291.16 L148.32,308.84 L174.16,291.16 L200,308.84 L225.84,291.16 L251.68,308.84 L277.52,291.16 L303.36,308.84"/>
+      <animate attributeName="opacity" values="0;0.5;0.5;0" dur="3s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- label -->
+  <text x="200" y="384" text-anchor="middle" fill="#6e7681" font-family="ui-monospace, monospace" font-size="8" letter-spacing="2.5" opacity="0.42">
+    POLYSTYRENE · SIGNAL&#160;PROPAGATION
+    <animate attributeName="opacity" values="0.28;0.48;0.28" dur="6s" repeatCount="indefinite"/>
+  </text>
+</svg>

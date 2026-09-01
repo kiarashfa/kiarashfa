@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 100 400 196" width="400" height="196" role="img" aria-label="A molecule feeding a neural network that predicts a material property">
+  <defs>
+    <filter id="c3-soft" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="c3-fill" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#848d97" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#848d97" stop-opacity="0.06"/>
+    </radialGradient>
+    <g id="c3-neuron">
+      <circle r="7" fill="url(#c3-fill)" stroke="#848d97" stroke-width="1.4"/>
+    </g>
+  </defs>
+
+  <!-- ═══ INPUT: a small molecule (skeletal, with one double bond) ═══ -->
+  <g stroke="#848d97" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
+    <polyline points="26,214 46,190 66,214 86,190"/>
+    <line x1="52.3" y1="192.9" x2="64.3" y2="207.3"/>     <!-- double bond -->
+  </g>
+  <g fill="#848d97" opacity="0.85">
+    <circle cx="26" cy="214" r="2.4"/><circle cx="46" cy="190" r="2.4"/>
+    <circle cx="66" cy="214" r="2.6"/><circle cx="86" cy="190" r="2.4"/>
+  </g>
+
+  <!-- feed arrow: descriptors -> network -->
+  <g stroke="#6e7681" stroke-width="1.3" fill="none" opacity="0.4" stroke-linecap="round">
+    <path d="M96,202 L120,202"/>
+    <path d="M113,197 L120,202 L113,207"/>
+  </g>
+
+  <!-- ═══ NEURAL NETWORK edges (fully connected) ═══ -->
+  <g stroke="#848d97" stroke-width="0.9" opacity="0.42" fill="none">
+    <!-- input(x140) -> hidden(x225) -->
+    <path d="M140,131 L225,113 M140,131 L225,155 M140,131 L225,197 M140,131 L225,239 M140,131 L225,281"/>
+    <path d="M140,175 L225,113 M140,175 L225,155 M140,175 L225,197 M140,175 L225,239 M140,175 L225,281"/>
+    <path d="M140,219 L225,113 M140,219 L225,155 M140,219 L225,197 M140,219 L225,239 M140,219 L225,281"/>
+    <path d="M140,263 L225,113 M140,263 L225,155 M140,263 L225,197 M140,263 L225,239 M140,263 L225,281"/>
+    <!-- hidden(x225) -> output(x305) -->
+    <path d="M225,113 L305,173 M225,113 L305,221 M225,155 L305,173 M225,155 L305,221 M225,197 L305,173 M225,197 L305,221 M225,239 L305,173 M225,239 L305,221 M225,281 L305,173 M225,281 L305,221"/>
+    <!-- output -> readout -->
+    <path d="M305,173 L340,197 M305,221 L340,197"/>
+  </g>
+
+  <!-- ═══ SIGNAL: forward passes left -> right ═══ -->
+  <g filter="url(#c3-soft)">
+    <circle r="2.4" fill="#49C5B6" opacity="0">
+      <animateMotion dur="2.6s" repeatCount="indefinite" path="M86,190 L140,131 L225,155 L305,173 L340,197"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0.9;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.4" fill="#49C5B6" opacity="0">
+      <animateMotion dur="2.6s" begin="0.5s" repeatCount="indefinite" path="M86,190 L140,175 L225,197 L305,221 L340,197"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0.9;0" dur="2.6s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.4" fill="#49C5B6" opacity="0">
+      <animateMotion dur="2.6s" begin="1s" repeatCount="indefinite" path="M86,190 L140,219 L225,239 L305,221 L340,197"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0.9;0" dur="2.6s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.4" fill="#49C5B6" opacity="0">
+      <animateMotion dur="2.6s" begin="1.5s" repeatCount="indefinite" path="M86,190 L140,263 L225,281 L305,221 L340,197"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0.9;0" dur="2.6s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" fill="#49C5B6" opacity="0">
+      <animateMotion dur="2.6s" begin="0.8s" repeatCount="indefinite" path="M86,190 L140,175 L225,113 L305,173 L340,197"/>
+      <animate attributeName="opacity" values="0;0.8;0.8;0.8;0" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ═══ NEURONS ═══ -->
+  <g>
+    <use href="#c3-neuron" x="140" y="131"/><use href="#c3-neuron" x="140" y="175"/><use href="#c3-neuron" x="140" y="219"/><use href="#c3-neuron" x="140" y="263"/>
+    <use href="#c3-neuron" x="225" y="113"/><use href="#c3-neuron" x="225" y="155"/><use href="#c3-neuron" x="225" y="197"/><use href="#c3-neuron" x="225" y="239"/><use href="#c3-neuron" x="225" y="281"/>
+    <use href="#c3-neuron" x="305" y="173"/><use href="#c3-neuron" x="305" y="221"/>
+  </g>
+  <!-- gentle activations -->
+  <g fill="#49C5B6">
+    <circle cx="225" cy="155" r="2.6"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="225" cy="239" r="2.6"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="305" cy="173" r="2.6"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ═══ OUTPUT: predicted property gauge ═══ -->
+  <rect x="352" y="150" width="13" height="94" rx="3" fill="none" stroke="#848d97" stroke-width="1.3" opacity="0.6"/>
+  <clipPath id="c3-clip"><rect x="352" y="150" width="13" height="94" rx="3"/></clipPath>
+  <g clip-path="url(#c3-clip)">
+    <rect x="352" width="13" fill="#49C5B6" opacity="0.55">
+      <animate attributeName="y" values="244;168;244" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="0;76;0" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+</svg>
